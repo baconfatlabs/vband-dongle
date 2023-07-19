@@ -4,10 +4,10 @@ I created this just for fun, as a tinkerer I took a look at the most prevalent
 DIY solution for this that uses an Arduino Pro Micro.  I highly recommend the
 actual solution on the Ham Radio Solutions - https://hamradio.solutions/vband/
 
-Unless you're just itching to tinker or looking to do a ham club project, that
+**Unless you're just itching to tinker or looking to do a ham club project, that
 design is only 25 bucks and VERY reasonably priced, you probably can't build
 this for that much in small quantities.  Go support those guys,
-they're amazing and notable supporters of the DIY community in kind.
+they're amazing and notable supporters of the DIY community in kind.**
 
 Now, if I haven't dissuaded you from rolling your own, a few things:
 
