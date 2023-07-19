@@ -11,7 +11,7 @@ they're amazing and notable supporters of the DIY community in kind.
 
 Now, if I haven't dissuaded you from rolling your own, a few things:
 
-## The Hardware:
+## The Hardware
 This project includes a BOM, which is really just a specific TRS jack other
 than the board, Arduino Pro Micro, a 90 degree 2 pin header (which really is
 largely unnecessary), and that's about it.
@@ -28,7 +28,7 @@ https://oshpark.com/shared_projects/HH9dUUS9
 Nothing special.  Follow the goes-into's and goes-outta's and you'll be fine.
 ![Electrical Schematic](keyer_schematic.png)
 
-## The Software:
+## The Software
 Adapted without shame from a design by OZ1JHM found here -
 http://oz1jhm.dk/content/hamradio-solutions-vband-interface
 
