@@ -51,6 +51,8 @@ in turn allow you to use either an external keyer or a straight key without
 modification.  It may eventually be eliminated from subsequent designs but it's
 not hurting anything.  Feel free to omit if you want to save 3 cents.
 
+It's all in one file: [a relative link](src/hrs_vband_interface/hrs_vband_interface.ino)
+
 If you modify this firmware, I'd love it if you would create a fork, and send me
 a pull request.  I'll track it on a separate branch and, who knows, if it's
 super useful I'll pull it into main.
