@@ -1,4 +1,4 @@
-#Ham Radio Solutions - VBand Dongle Clone
+# Ham Radio Solutions - VBand Dongle Clone
 
 I created this just for fun, as a tinkerer I took a look at the most prevalent
 DIY solution for this that uses an Arduino Pro Micro.  I highly recommend the
@@ -11,7 +11,7 @@ they're amazing and notable supporters of the DIY community in kind.
 
 Now, if I haven't dissuaded you from rolling your own, a few things:
 
-##The Hardware:
+## The Hardware:
 This project includes a BOM, which is really just a specific TRS jack other
 than the board, Arduino Pro Micro, a 90 degree 2 pin header (which really is
 largely unnecessary), and that's about it.
@@ -21,14 +21,14 @@ your choice, and pictures for reference.  I use OSHPark for my prototyping and
 you can find the shared project for sale here if you just want to order.  I get
 NOTHING from those sales, and I'm totally fine with that!
 https://oshpark.com/shared_projects/HH9dUUS9
-![Board Rendering Top](board_outline_top.png)
-![Board Rendering Top](board_outline_bottom.png)
 
-##The Schematic
+![Board Rendering Top](board_outline_top.png)![Board Rendering Top](board_outline_bottom.png)
+
+## The Schematic
 Nothing special.  Follow the goes-into's and goes-outta's and you'll be fine.
 ![Electrical Schematic](keyer_schematic.png)
 
-##The Software:
+## The Software:
 Adapted without shame from a design by OZ1JHM found here -
 http://oz1jhm.dk/content/hamradio-solutions-vband-interface
 
