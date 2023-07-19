@@ -1,0 +1,6 @@
+Partlist exported from C:/Users/luv2w/Documents/eagle/Arduino Keyer/keyer.sch at 7/19/2023 3:48 PM
+
+Part Value             Device          Package         Description 
+J1   Key In            SJ1-3525NG      SJ1-3525NG                  
+JP1                    PINHD-1X2/90    1X02/90OCT      PIN HEADER  
+U1   ARDUINO PRO MICRO ARDUINOPROMICRO ARDUINOPROMICRO             
