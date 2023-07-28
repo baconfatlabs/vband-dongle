@@ -20,7 +20,7 @@ Also included are gerber files that you can use to submit to any board house of
 your choice, and pictures for reference.  I use OSHPark for my prototyping and
 you can find the shared project for sale here if you just want to order.  I get
 NOTHING from those sales, and I'm totally fine with that!
-https://oshpark.com/shared_projects/HH9dUUS9
+https://oshpark.com/shared_projects/oxoF7UW8
 
 ![Board Rendering Top](board_outline_top.png)![Board Rendering Top](board_outline_bottom.png)
 
